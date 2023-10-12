@@ -21,10 +21,10 @@
 
 <h2> 🤳📫 Connect with me:</h2>
 
-[<img align="left" alt="Daniel | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" style="color:yellow"/>][youtube]
-[<img align="left" alt="Daniel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="color:blue" />][twitter]
-[<img align="left" alt="Daniel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="color:red"/>][linkedin]
-[<img align="left" alt="Daniel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="color:red" />][instagram]
+[<img align="left" alt="Daniel | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>][youtube]
+[<img align="left" alt="Daniel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
+[<img align="left" alt="Daniel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
+[<img align="left" alt="Daniel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" fill="#ADD8E6"/>][instagram]
 
 [twitter]: https://twitter.com/
 [youtube]: https://www.youtube.com/c/
