@@ -2,34 +2,34 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Web for Coffee Shop</b>
-  - [Praciting HTML, CSS and Java Script](https://jdloor22.github.io/WebProjectCoffee/)
+- <b>Praciting HTML, CSS and Java Script</b>
+  - [Web for Coffee Shop](https://jdloor22.github.io/WebProjectCoffee/)
 
-- <b>Calculate your next Birthday</b>
-  - [Praciting HTML, CSS and Java Script](https://jdloor22.github.io/BirthdayProject/)
+- <b>Praciting HTML, CSS and Java Script</b>
+  - [Calculate your next Birthday](https://jdloor22.github.io/BirthdayProject/)
  
-- <b>Date Board 12/24 hours</b>
-  - [Praciting HTML, CSS and Java Script](https://jdloor22.github.io/DateBoard/)
+- <b>Praciting HTML, CSS and Java Script</b>
+  - [Date Board 12/24 hours](https://jdloor22.github.io/DateBoard/)
 
-<h2>👨‍💻   </h2>
+<h2>👨‍💻  About me </h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on security...
+- 🌱 I’m currently learning cibersecurity...
+- 👯 I’m looking to collaborate on a growing organization, to develop my personal and professional skills...
+- 🤔 I’m looking for help with cibersecurity certifications...
+- 💬 Ask me about technology...
 
 <h2> 🤳📫 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Daniel | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" style="color:yellow"/>][youtube]
+[<img align="left" alt="Daniel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="color:blue" />][twitter]
+[<img align="left" alt="Daniel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="color:red"/>][linkedin]
+[<img align="left" alt="Daniel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="color:red" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[twitter]: https://twitter.com/
+[youtube]: https://www.youtube.com/c/
+[instagram]: https://www.instagram.com//
+[linkedin]: https://www.linkedin.com/in/jdaniel-loor/?locale=en_US
 
 <!--
 is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
